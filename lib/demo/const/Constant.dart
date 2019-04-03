@@ -20,4 +20,8 @@ class Constant{
   static const String flow_general_display = 'flow_general_display';
   static const String flow_general_header = 'flow_general_header';
   static const String flow_general_select = 'flow_general_select';
+
+
+  static const int screen_width = 1080;
+  static const int screen_height = 1920;
 }

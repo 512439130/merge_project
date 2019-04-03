@@ -10,7 +10,7 @@ import 'package:path_provider/path_provider.dart';
 import 'package:simple_permissions/simple_permissions.dart';
 import 'package:merge_project/demo/util/PermissionUtil.dart';
 const String title = '多图片详情';
-const double _kMinFlingVelocity = 500.0; //放大缩小速率
+const double _kMinFlingVelocity = 400.0; //放大缩小速率
 
 int _selectIndex;
 
